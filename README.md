@@ -25,3 +25,7 @@ Gebruik bovenstaande gegevens in combinatie met **port 465**.
 ## Ontvangen in Gmail
 
 [Deze screencast](https://youtu.be/28WqG9r537Y) toont een voorbeeld van hoe je je Outdoor mail in Gmail ontvangt.
+
+____
+
+Tip: Zelf ben ik heel tevreden over "[G Suite](https://gsuite.google.com/intl/nl/)" van Google, waarin je gebruikt maakt van de [Gmail](https://gmail.com)/[Inbox](https://inbox.google.com)-interface voor het bekijken van je Outdoor mail.

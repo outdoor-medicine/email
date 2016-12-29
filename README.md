@@ -21,6 +21,6 @@ Gebruik bovenstaande gegevens in combinatie met **port 110**.
 
 Gebruik bovenstaande gegevens in combinatie met **port 465**.
 
-**Ontvangen van Gmail **
+## Ontvangen in Gmail
 
 [Deze screencast](https://youtu.be/28WqG9r537Y) toont een voorbeeld van hoe je je Outlook mail in Gmail ontvangt.

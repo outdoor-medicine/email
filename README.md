@@ -2,9 +2,9 @@
 *How to send &amp; receive email using the Outdoor Medicine mail server*
 
 
-Tot en met 29 december 2016 was de mail van Outdoor Medicine gehost op een server bij Webreus.
-Vanaf 29 december 2016 t/m 13 november 2018 stond de mail gehost op een gedeelde server bij Server.lu.
-Vanaf 13 november staat de mail gehost op een eigen hostingpakket bij Greenhost.
+* Tot en met 29 december 2016 was de mail van Outdoor Medicine gehost op een server bij Webreus.
+* Vanaf 29 december 2016 t/m 13 november 2018 stond de mail gehost op een gedeelde server bij Server.lu.
+* Vanaf 13 november staat de mail gehost op een eigen hostingpakket bij Greenhost.
 
 Als je vanaf nu Outdoor-mail wilt lezen, kun je gebruik maken van de volgende gegevens:
 

@@ -11,7 +11,7 @@ Als je vanaf nu Outdoor-mail wilt lezen, kun je gebruik maken van de volgende ge
 **Inkomende mail**
 
     Server/Host:        mail.greenhost.nl
-    Port:               993
+    Port:               993 voor IMAP of 995 voor POP
     Type beveiliging:   SSL/TLS
     Gebruikersnaam:     je e-mailadres
     Wachtwoord:         je wachtwoord

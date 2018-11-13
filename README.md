@@ -2,11 +2,27 @@
 *How to send &amp; receive email using the Outdoor Medicine mail server*
 
 
-Tot en met 29 december 2016 was de mail van Outdoor Medicine gehost op een server bij Webreus. Op 29 december 2016 is verhuisd van Webreus naar een eigen server. Als je vanaf nu Outdoor-mail wilt lezen, kun je gebruik maken van de volgende gegevens:
+Tot en met 29 december 2016 was de mail van Outdoor Medicine gehost op een server bij Webreus.
+Vanaf 29 december 2016 t/m 13 november 2018 stond de mail gehost op een gedeelde server bij Server.lu.
+Vanaf 13 november staat de mail gehost op een eigen hostingpakket bij Greenhost.
 
-    Server/Host:    mail.outdoormedicine.org
-    Gebruikersnaam: je e-mailadres
-    Wachtwoord:     je wachtwoord
+Als je vanaf nu Outdoor-mail wilt lezen, kun je gebruik maken van de volgende gegevens:
+
+**Inkomende mail**
+
+    Server/Host:        mail.greenhost.nl
+    Port:               993
+    Type beveiliging:   SSL/TLS
+    Gebruikersnaam:     je e-mailadres
+    Wachtwoord:         je wachtwoord
+
+**Uitgaande mail**
+
+    Server/Host:        smtp.greenhost.nl
+    Port:               465
+    Type beveiliging:   SSL/TLS
+    Gebruikersnaam:     je e-mailadres
+    Wachtwoord:         je wachtwoord
 
 Je e-mailadres en het nieuwe wachtwoord zend ik je apart toe.
 
@@ -14,17 +30,13 @@ Je e-mailadres en het nieuwe wachtwoord zend ik je apart toe.
 
 Je kunt zelf kiezen welk mailprogramma je wilt gebruiken. Bijvoorbeeld Gmail, Outlook365, Thunderbird of Outlook. Als je hulp nodig hebt bij het instellen van de gegevens: mail [bart@tuxion.nl](mailto:bart@tuxion.nl) of bericht naar [mail voor telefoonnummer].
 
-## Mail ontvangen
+## Uitgebreide informatie over instellen mail client
 
-Gebruik bovenstaande gegevens in combinatie met **port 110**.
-
-## Mail verzenden
-
-Gebruik bovenstaande gegevens in combinatie met **port 465**.
-
-## Ontvangen in Gmail
-
-[Deze screencast](https://youtu.be/28WqG9r537Y) toont een voorbeeld van hoe je je Outdoor mail in Gmail ontvangt.
+* [E-mail](https://greenhost.nl/helpdesk/e-mail/) op greenhost.nl
+* [E-mailaccounts beheren](https://greenhost.nl/helpdesk/e-mail/e-mailaccounts-beheren-master/)
+* [Webmail gebruiken](https://greenhost.nl/helpdesk/e-mail/webmail-gebruiken/)
+* [Mailprogramma instellen](https://greenhost.nl/helpdesk/e-mail/programma-instellen/)
+* [Smartphone instellen](https://greenhost.nl/helpdesk/e-mail/smartphone-instellen/)
 
 ____
 
